@@ -3,7 +3,6 @@
 **A Chrome Extension for K-12 Filter Evasion Prevention**
 
 Written by Jim Tyler, Microsoft MVP  
-Director of Technology, Niles Community Schools
 
 ---
 
