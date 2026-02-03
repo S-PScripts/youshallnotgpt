@@ -1,4 +1,4 @@
-# Privacy Policy - You Shall Not Pass Extension
+# Privacy Policy - You Shall Not GPT
 
 **Effective Date:** Tuesday, February 3rd, 2026
 
